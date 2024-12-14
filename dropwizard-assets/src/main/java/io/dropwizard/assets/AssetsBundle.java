@@ -136,6 +136,7 @@ public class AssetsBundle implements ConfiguredBundle<Configuration> {
         return resourcePath;
     }
 
+    // adding comment
     public String getUriPath() {
         return uriPath;
     }
