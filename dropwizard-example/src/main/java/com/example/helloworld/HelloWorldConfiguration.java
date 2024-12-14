@@ -30,6 +30,7 @@ public class HelloWorldConfiguration extends Configuration {
         return template;
     }
 
+    // Adding a comment here
     @JsonProperty
     public void setTemplate(String template) {
         this.template = template;
